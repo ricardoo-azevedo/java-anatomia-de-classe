@@ -1,5 +1,5 @@
 
-package com.ricardooazevedo.java.anatomia.classe;
+package edu.ricardooazevedo.java.anatomia.de.classe;
 
 /**
  *
